@@ -1,0 +1,9 @@
+import '../css/App.css'
+import Hello from './Hello'
+function App() {
+  return (
+    <Hello />
+  );
+}
+
+export default App;
